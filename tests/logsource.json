@@ -269,7 +269,7 @@
             "common": [],
             "empty": [],
             "category":{
-                "webserver":["attack_type", "action", "rule_id", "payload", "location",
+                "waf":["attack_type", "action", "rule_id", "payload", "location",
                     "method", "src_ip", "src_port", "socket_ip", "dest_ip", "dest_port",
                     "host", "urlpath", "query_string", "protocol", "user_agent", "referer",
                     "cookie", "event_id", "site_uuid", "site_url", "module", "reason",

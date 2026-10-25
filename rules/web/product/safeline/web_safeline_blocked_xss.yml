@@ -20,7 +20,7 @@ tags:
     - attack.t1190
 logsource:
     product: safeline
-    category: webserver
+    category: waf
 detection:
     selection:
         attack_type: 'xss'
