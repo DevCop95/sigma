@@ -1,4 +1,4 @@
-title: BigDiskBuster-Like Buster-File Creation in TEMP
+title: Potential BigDiskBuster-Like Buster-File Creation in TEMP
 id: 15755e6b-a54d-4a6e-9773-554c724f8a63
 status: experimental
 description: |
@@ -7,6 +7,7 @@ description: |
 references:
     - https://github.com/DevCop95/BDB-Guardian
     - https://github.com/MSNightmare/BigDiskBuster
+    - https://www.levelblue.com/blogs/spiderlabs-blog/filling-the-well-nightmare-eclipses-bigdiskbuster-and-the-defender-update-that-never-lands
 author: DevCop95
 date: 2026-09-20
 tags:
